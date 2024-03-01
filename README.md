@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangithub9&show_icons=true&locale=en" alt="amangithub9" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@amangithub9&theme=transparent" /> 
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangithub9&" alt="amangithub9" /></p>
 
