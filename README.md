@@ -29,11 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangithub9&show_icons=true&locale=en" alt="amangithub9" /></p>
 
-## Coding Activity
-
-![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&layout=compact&hide_title=true)
-
-Above is a summary of my coding activity based on hours spent writing code in different programming languages. This helps showcase my proficiency and dedication to coding across various technologies.
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@amangithub9&theme=transparent" /> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangithub9&" alt="amangithub9" /></p>
 
